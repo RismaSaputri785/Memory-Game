@@ -11,8 +11,6 @@
 body{
     background-color: aquamarine;
     background-image: url(images/dino.png);
-    padding: 0.5rem;
-    min-height: 100rem;
     overflow: hidden;
     
 }
@@ -271,7 +269,7 @@ body{
     /* P A C K */
     .bg .bawah {
         position: fixed;
-        width: 100%;
+        width: 100vh;
         justify-content: center;
         display: flex;
         bottom: 1rem;
