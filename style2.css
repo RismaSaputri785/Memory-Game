@@ -156,10 +156,10 @@ body{
     }
 
     .bg #ucapan .poto {
-        width: 20rem;
-        height: 18rem;
+        width: 25rem;
+        height: 20rem;
         border-radius: 10px;
-        margin-left: 4rem;
+        margin-left: 1rem;
     }
 
     
@@ -263,7 +263,7 @@ body{
         width: 100%;
         justify-content: center;
         display: flex;
-        margin-top: 1rem;
+        margin-top: -12rem;
     }
     .bg .bawah .pack {
         background-color: var(--primary);
@@ -389,7 +389,7 @@ body{
 
     .kado .isi {
         width: 100vh;
-        margin-left: 0.7rem;
+        margin-left: -6rem;
         box-sizing: border-box;
         justify-content: center;
         display: flex;
