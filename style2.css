@@ -156,8 +156,8 @@ body{
     }
 
     .bg #ucapan .poto {
-        width: 38rem;
-        height: 28rem;
+        width: 30rem;
+        height: 25rem;
         border-radius: 10px;
 
     }
@@ -244,7 +244,7 @@ body{
         display: flex;
         height: 30vh;
         width: 30vh;
-        margin-left: 20vh;
+        margin-left: 8vh;
     }
 
     .bg #penutup h2 {
@@ -286,7 +286,7 @@ body{
         width: 100%;
         justify-content: center;
         display: flex;
-        margin-top: -5rem;
+        margin-top: -10rem;
         margin-bottom: 1rem;
     }
     .bg .bawah2 .pack {
@@ -310,7 +310,7 @@ body{
         width: 100%;
         justify-content: center;
         display: flex;
-        margin-top: -5rem;
+        margin-top: -10rem;
     }
     .bg .bawah3 .pack {
         background-color: var(--primary);
@@ -333,7 +333,7 @@ body{
         width: 100%;
         justify-content: center;
         display: flex;
-        margin-top: -5rem;
+        margin-top: -10rem;
     }
     .bg .bawah4 .pack {
         background-color: var(--primary);
@@ -356,7 +356,7 @@ body{
         width: 100%;
         justify-content: center;
         display: flex;
-        margin-top: -5rem;
+        margin-top: -10rem;
     }
     .bg .bawah5 .pack {
         background-color: var(--primary);
@@ -389,7 +389,7 @@ body{
 
     .kado .isi {
         width: 100vh;
-        margin-left: 1rem;
+        margin-left: -10rem;
         box-sizing: border-box;
         justify-content: center;
         display: flex;
