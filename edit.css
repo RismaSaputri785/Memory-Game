@@ -13,10 +13,10 @@ body {
     background-color: aquamarine;
     background-image: url(images/dino.png);
     padding: 0.5rem;
-    
+    overflow: hidden;
 }
 
-@media (max-width: 530px) {
+@media (max-width: 650px) {
     
     /* A W A L A N */
     .isi{
