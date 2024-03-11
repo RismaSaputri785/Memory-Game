@@ -13,6 +13,7 @@ body{
     background-image: url(images/dino.png);
     padding: 0.5rem;
     min-height: 100rem;
+    overflow: hidden;
     
 }
 
@@ -32,7 +33,7 @@ body{
 
 /* M e d i a   Q u e r i s */
 
-@media (max-width: 530px) {
+@media (max-width: 650px) {
     .bg .pal-atas {
         display: flex;       
         width: 100%;
