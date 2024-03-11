@@ -156,17 +156,10 @@ body{
     }
 
     .bg #ucapan .poto {
-        width: 15rem;
-        height: 9rem;
+        width: 5rem;
+        height: 2rem;
         border-radius: 10px;
         margin-left: -4rem;
-    }
-
-    .bg #ucapan p {
-        padding: 1rem 1rem;
-        text-align: justify;
-        font-weight: bold;
-        background-color: aliceblue;
     }
 
     
