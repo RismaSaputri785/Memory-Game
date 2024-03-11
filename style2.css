@@ -11,8 +11,7 @@
 body{
     background-color: aquamarine;
     background-image: url(images/dino.png);
-    overflow: hidden;
-    
+    overflow-x: hidden;
 }
 
 
@@ -36,7 +35,6 @@ body{
         display: flex;       
         width: 100%;
         justify-content: center;
-        margin-top: -0.8rem;
     }
     
     .bg .pal-atas img{
@@ -93,6 +91,7 @@ body{
         text-align: center;
         font-size: 1rem;
         padding-bottom: 2rem;
+        height: 1rem;
     } 
 
     
@@ -268,11 +267,10 @@ body{
 
     /* P A C K */
     .bg .bawah {
-        position: fixed;
-        width: 100vh;
+        width: 100%;
         justify-content: center;
         display: flex;
-        bottom: 1rem;
+        margin-top: -8rem;
     }
     .bg .bawah .pack {
         background-color: var(--primary);
@@ -290,6 +288,101 @@ body{
         display: flex;
     }
 
+    /* P A C K 2*/
+    .bg .bawah2 {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        margin-top: -5rem;
+        margin-bottom: 1rem;
+    }
+    .bg .bawah2 .pack {
+        background-color: var(--primary);
+        display: flex;
+        border-radius: 18px;
+        width: 18em;
+        height: 3rem;
+        justify-content: space-between;
+        padding: 0.8rem;
+    }
+
+    .bg .bawah2 .pack img {
+        width: 1.6rem;
+        height: 1.6rem;
+        display: flex;
+    }
+
+    /* P A C K 3*/
+    .bg .bawah3 {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        margin-top: -5rem;
+    }
+    .bg .bawah3 .pack {
+        background-color: var(--primary);
+        display: flex;
+        border-radius: 18px;
+        width: 18em;
+        height: 3rem;
+        justify-content: space-between;
+        padding: 0.8rem;
+    }
+
+    .bg .bawah3 .pack img {
+        width: 1.6rem;
+        height: 1.6rem;
+        display: flex;
+    }
+
+    /* P A C K 4*/
+    .bg .bawah4 {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        margin-top: -5rem;
+    }
+    .bg .bawah4 .pack {
+        background-color: var(--primary);
+        display: flex;
+        border-radius: 18px;
+        width: 18em;
+        height: 3rem;
+        justify-content: space-between;
+        padding: 0.8rem;
+    }
+
+    .bg .bawah4 .pack img {
+        width: 1.6rem;
+        height: 1.6rem;
+        display: flex;
+    }
+
+    /* P A C K 5*/
+    .bg .bawah5 {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        margin-top: -5rem;
+    }
+    .bg .bawah5 .pack {
+        background-color: var(--primary);
+        display: flex;
+        border-radius: 18px;
+        width: 18em;
+        height: 3rem;
+        justify-content: space-between;
+        padding: 0.8rem;
+    }
+
+    .bg .bawah5 .pack img {
+        width: 1.6rem;
+        height: 1.6rem;
+        display: flex;
+    }
+
+
+    /* P E N U T U P */
     .kado {
         margin: 1rem;
         margin-top: 1.5rem;
