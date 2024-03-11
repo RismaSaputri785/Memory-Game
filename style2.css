@@ -156,8 +156,8 @@ body{
     }
 
     .bg #ucapan .poto {
-        width: 50vh;
-        height: 58vh;
+        width: 15rem;
+        height: 9rem;
         border-radius: 10px;
         margin-left: -4rem;
     }
@@ -396,7 +396,7 @@ body{
 
     .kado .isi {
         width: 100vh;
-        margin-left: 1.5rem;
+        margin-left: 0.7rem;
         box-sizing: border-box;
         justify-content: center;
         display: flex;
