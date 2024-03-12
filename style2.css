@@ -161,7 +161,9 @@ body{
         width: 30rem;
         height: 25rem;
         border-radius: 10px;
-        margin-right: 1rem;
+        /*margin-left: 1rem;*/
+        display: flex;
+        justify-content: center;
     }
 
     
@@ -392,6 +394,7 @@ body{
     .kado .isi {
         width: 100vh;
         margin: 1rem;
+        margin-left: 1.5rem;
         box-sizing: border-box;
         justify-content: center;
         display: flex;
