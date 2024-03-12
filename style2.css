@@ -11,7 +11,7 @@
 body{
     background-color: aquamarine;
     background-image: url(images/dino.png);
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 
